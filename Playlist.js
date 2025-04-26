@@ -1,3 +1,5 @@
+#EXTM3U xjoin TG @IPTV07INDIA
+
 #EXTINF:-1 tvg-id="1" tvg-name="Colors" tvg-logo="https://static.epg.best/gb/Colors.uk.png" group-title="INDIAN | 4K ULTRA HD", Colors
 https://opplex-m3u-by07.vercel.app/api/telegram?iptv07india=1
 
